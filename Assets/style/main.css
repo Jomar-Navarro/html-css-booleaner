@@ -19,6 +19,11 @@ header img{
 
 /* main */
 
+.evidenziatore{
+  background-color: yellow;
+  color: black;
+}
+
 main{
   margin: 5px;
 }
@@ -73,3 +78,38 @@ td{
   padding-right: 100px;
 }
 /* /Tabella */
+
+/* footer */
+
+footer{
+  margin: 5px;
+}
+
+footer h3{
+  color: #797979;
+  margin-top: 10px;
+  margin-bottom: -10px;
+}
+
+#img-1{
+  background-image: url(../img/monitor.jpg);
+  width: 250px;
+  height: 250px;
+  background-size: cover;
+  background-position: center;
+  color: white;
+  font-size: 25px;
+  text-align: center;
+}
+
+#img-2{
+  background-image: url(../img/graph.jpg);
+  width: 250px;
+  height: 250px;
+  background-size: cover;
+  background-position: center;
+  color: white;
+  font-size: 25px;
+  text-align: center;
+
+}
