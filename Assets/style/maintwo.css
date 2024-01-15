@@ -1,0 +1,115 @@
+body{
+  margin: 0;
+}
+
+/* Header */
+header{
+  width: 100%;
+  height: 200px;
+  background-image: url(../img/pattern.png);
+  background-color: #4ea0ff;
+}
+
+header img{
+  width: 250px;
+  height: 300px;
+}
+
+/* /Header */
+
+/* main */
+
+.evidenziatore{
+  background-color: yellow;
+  color: black;
+}
+
+main{
+  margin: 5px;
+}
+
+/* Titolo e immagini */
+section h1{
+  font-size: 70px;
+  margin-bottom: -15px;
+}
+
+section h2{
+  color: #737373;
+}
+
+section span{
+  color: #21a9e5;
+}
+
+section img{
+  width: fit-content;
+  height: 650px;
+  margin-bottom: -15px;
+}
+/* /Titolo e immagini */
+
+section{
+  font-size: 18px;
+  font-weight: 400;
+}
+
+/* Tabella */
+
+table{
+  table-layout: fixed;
+  border-collapse: collapse;
+  border-spacing: 10px;
+}
+
+thead{
+  background-color: #20a9e5;
+  text-align: left;
+  color: white;
+}
+
+
+.azzurro{
+  background-color: #b1e5f2;
+  
+}
+
+td{
+  padding-right: 100px;
+}
+/* /Tabella */
+
+/* footer */
+
+footer{
+  margin: 5px;
+}
+
+footer h3{
+  color: #797979;
+  margin-top: 10px;
+  margin-bottom: -10px;
+}
+
+#img-1{
+  background-image: url(../img/monitor.jpg);
+  width: 250px;
+  height: 250px;
+  background-size: cover;
+  background-position: center;
+  color: white;
+  font-size: 25px;
+  text-align: center;
+}
+
+#img-2{
+  background-image: url(../img/graph.jpg);
+  width: 250px;
+  height: 250px;
+  background-size: cover;
+  background-position: center;
+  color: white;
+  font-size: 25px;
+  text-align: center;
+
+}
