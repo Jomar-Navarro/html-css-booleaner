@@ -16,3 +16,33 @@ header img{
 }
 
 /* /Header */
+
+/* main */
+
+
+
+/* Titolo e immagini */
+section h1{
+  font-size: 70px;
+  margin-bottom: -15px;
+}
+
+section h2{
+  color: #737373;
+}
+
+section span{
+  color: #21a9e5;
+}
+
+section img{
+  width: fit-content;
+  height: 650px;
+  margin-bottom: -15px;
+}
+/* /Titolo e immagini */
+
+section{
+  font-size: 18px;
+  font-weight: 400;
+}
