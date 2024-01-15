@@ -19,7 +19,9 @@ header img{
 
 /* main */
 
-
+main{
+  margin: 5px;
+}
 
 /* Titolo e immagini */
 section h1{
@@ -46,3 +48,28 @@ section{
   font-size: 18px;
   font-weight: 400;
 }
+
+/* Tabella */
+
+table{
+  table-layout: fixed;
+  border-collapse: collapse;
+  border-spacing: 10px;
+}
+
+thead{
+  background-color: #20a9e5;
+  text-align: left;
+  color: white;
+}
+
+
+.azzurro{
+  background-color: #b1e5f2;
+  
+}
+
+td{
+  padding-right: 100px;
+}
+/* /Tabella */
